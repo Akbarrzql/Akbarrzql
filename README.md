@@ -1,4 +1,4 @@
-## Hello There 👋, I'm <a href="https://github.com/Akbarrzql" target="_blank">Akbar</a>!
+## Hello There 👋, I'm <a href="https://github.com/Akbarrzql" target="_blank">Akbar Rizqullah</a>!
 
 <a href="https://twitter.com/akbarrzql8" target="_blank"><img align="left" alt="akbarrzql8 | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.instagram.com/akbarrzql/" target="_blank"><img align="left" alt="akbarrzql | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
