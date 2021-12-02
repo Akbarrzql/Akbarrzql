@@ -12,7 +12,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="kotlin" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="java" width="26px" height="30" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+
 <br />
 <br />
   
@@ -21,7 +21,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Android Studio" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TWXeRF1b29BsjyfAfvSFw3Wqkgi_eiZUAg&usqp=CAU" />
 <img align="left" alt="Intelij Idea" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
-
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
 
