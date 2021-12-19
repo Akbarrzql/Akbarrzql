@@ -31,3 +31,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akbarrzql&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akbarrzql&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
+<br>
+  <img src="https://komarev.com/ghpvc/?username=Akbarrzql&label=Profile%20views&color=0e75b6&style=flat" alt="Akbarrzql" />
