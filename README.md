@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋🏻, I'm Akbar Rizqullah</h1>
 <h3 align="center">The only way to do a great work, is to love what you do</h3>
 
+### Connect with me:
+
 <a href="https://twitter.com/akbarrzql8" target="_blank"><img align="left" alt="akbarrzql8 | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.instagram.com/akbarrzql/" target="_blank"><img align="left" alt="akbarrzql | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
