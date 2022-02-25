@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏻, I'm Akbar Rizqullah</h1>
-<h3 align="center">The only way to do a great work, is to love what you do</h3>
+<h3 align="center">To move the earth, you must first move yourself.</h3>
 
 ### Connect with me:
 
