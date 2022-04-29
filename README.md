@@ -37,4 +37,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akbarrzql&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 <br>
+  <a href="https://github.com/Akbarrzql"><img src="https://activity-graph.herokuapp.com/graph?username=Akbarrzql&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=Akbarrzql&label=Profile%20views&color=0e75b6&style=flat" alt="Akbarrzql" />
